@@ -1,1 +1,1 @@
-# Joshua
+# OpenTK Simple triangle
